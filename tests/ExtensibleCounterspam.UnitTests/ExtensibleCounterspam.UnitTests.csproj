@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <!-- Build Configuration -->
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <!-- Compiler Configuration -->
+  <PropertyGroup>
+  </PropertyGroup>
+
+  <!-- Package Information -->
+  <PropertyGroup>
+    <Authors>Arthri</Authors>
+    <Copyright>Copyright © 2022 Arthri</Copyright>
+    <Description>Unit tests for Extensible Counterspam.</Description>
+    <Title>Extensible Counterspam Unit Tests</Title>
+    <Version>0.0.1</Version>
+  </PropertyGroup>
+
+</Project>

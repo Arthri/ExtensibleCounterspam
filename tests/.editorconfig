@@ -1,0 +1,10 @@
+# Target C# files
+[*.cs]
+
+
+
+# Code Style Rules
+
+## Remove unnecessary expression value
+## https://docs.microsoft.com/en-us/dotnet/fundamentals/code-analysis/style-rules/ide0058
+dotnet_diagnostic.IDE0058.severity = silent
