@@ -2,7 +2,8 @@
 
   <!-- Build Configuration -->
   <PropertyGroup>
-    <EnforceCodeStyleInBuild>True</EnforceCodeStyleInBuild>
+    <EnforceCodeStyleInBuild>true</EnforceCodeStyleInBuild>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
     <TargetFramework>net6.0</TargetFramework>
   </PropertyGroup>
 
